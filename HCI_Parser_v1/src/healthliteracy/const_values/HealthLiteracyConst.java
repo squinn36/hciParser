@@ -50,10 +50,7 @@ public interface HealthLiteracyConst {
 			"source", "sprefix", "sr", "tag", "toggle", "url", "usg", "ved" };
 	
 	String[] INVALID_PARAMETER_VALUES = { "google", "yahoo", "en", "1", "2", "image_result_group", "isch", "", "en-GB",
-			"219912133", "ivns", "0", "AOD64_3I-el2l2b4rt7Uxwl1j4S07uCKZA",
-			"C42-F62USVtzsFoPPiwb1hrOICKitl4cHsKzpm7oC0cnkgmsIABABYLuGgIDYCqABuMTA1APIAQGpAh16FVVbg7k-qgQqT9CuQtL2swcGxkD45mbFrdgF8amMX6aagxicapiuhrNWhlOc1qwUHezegAewu78rkAcDqAemvhvYBwE",
-			"AOD64_01WL0d_P9vPFw7ePAJ4g8S8JOL7w",
-			"CxgnC0GUSVriyNaWljAark7SIDpfc5-sFt5Gx9PYB5MWgDwgAEAFgu4aAgNgKoAGV-6HwA8gBAaoEJ0_QEuztbbt-dP4H2U78L91jrNzEfEaibzo0604VuB9elj1uERsUCIAH04TeD5AHA6gHpr4b2AcB" };
+			"219912133", "ivns", "0" };
 			
 	String[] HEADER_URL = { "Part", "Que", "PreTask", "PostTask", "Duration", "TotalAnswers", "Answer1", "Ans1Domain",
 			"Ans1URL", "Answer2", "Ans2Domain", "Ans2URL", "Answer3", "Ans3Domain", "Ans3URL", "TotalSearchTerms",
